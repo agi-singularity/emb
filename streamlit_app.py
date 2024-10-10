@@ -20,13 +20,13 @@ import matplotlib.pyplot as plt
 import glob
 
 #######################
-# Page configuration
-st.set_page_config(
-    page_title="Embeddings Analyzer",
-    layout="wide",
-    initial_sidebar_state="expanded")
+# # Page configuration
+# st.set_page_config(
+#     page_title="Embeddings Analyzer",
+#     layout="wide",
+#     initial_sidebar_state="expanded")
 
-alt.themes.enable("dark")
+# alt.themes.enable("dark")
 
 
 #######################
